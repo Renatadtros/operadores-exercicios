@@ -16,5 +16,5 @@ console.log ("O primeiro numero é maior que o segundo?" ,num1 > num2);
 console.log ("Os números são iguais?" ,num1 === num2);
 console.log ("O primeiro número é maior ou igual ao segundo?" ,num1 >= num2);
 
-console.log ("O primeiro número é divisível pelo segundo? " ,(num1 % num2) === 0);
+console.log ("O primeiro número é divisível pelo segundo?" ,(num1 % num2) === 0);
 console.log ("O segundo número é divisível pelo primeiro?"  ,(num2 % num1) === 0);
